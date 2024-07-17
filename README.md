@@ -1,1 +1,1 @@
-# GE Research -> Spring 2024
+# GE ResearchxGEAI VIP -> Spring 2024
