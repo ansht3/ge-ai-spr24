@@ -103,7 +103,7 @@ Helpful tips:
 
 Utilizing motion planning algorithms to create collision-free trajectories to complete the pick and place task, with Hugging Face LeRobot library.
 
-Below is a video of our demonstration:
+Below is a video of our training our model utilizing LeRobot:
 
 
 
