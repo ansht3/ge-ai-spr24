@@ -13,14 +13,18 @@ This was a project that a group of 5 members did as a part of a class over the c
 - XML
 - RoboHive
 
-
-## Part 1 of Project
-
 ### Supported Platforms
 - Ubuntu
 - Windows
     - Must use [WSL](https://docs.microsoft.com/en-us/windows/wsl) (Windows Subsystem for Linux)
 - MacOS
+
+## Part 1 of Project
+
+Please take the GE_Research_Project_Part_1.ipynb and run each cell as outlined in the file. Ensure you are utilizing Python >=3.10.0 to run the file and ensure all dependencies can be properly installed.
+
+## Part 2 of Project
+
 
 ### Preliminary Steps
 1. Install MuJoCo and pyenv (python version management)
