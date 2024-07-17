@@ -1,1 +1,1 @@
-# ge-ai-spr24
+# GE Research -> Spring 2024
