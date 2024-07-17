@@ -122,4 +122,4 @@ Get an introduction to learning techniques commonly found in robotics:
 We will go ahead and implement this in future iterations of this project.
 
 ## 🫂 Acknowledgements
-- Thank you Shaopeng Liu @ GE Aerospace for meeting with us to go over our work throughout the semester!
+- Thank you Shaopeng Liu @ GE Research for meeting with us to go over our work throughout the semester!
