@@ -2,7 +2,7 @@
 
 ## ❓ Introduction
 
-This was a project that a group of 5 members did as a part of a class over the course of the Spring 2024 semester, in collaboration with GE Research industry partner.
+This was a project that a group of 5 members did as a part of a research class over the Spring 2024 semester, in collaboration with GE Research industry partner.
 
 ## ⚙️ Technologies Used
 - Python
@@ -68,9 +68,15 @@ pip3 install -e .
 
 #### Part 1: Open-loop Box Pick and Place
 
-Goal: get the robot to pick up the brick in the right bin and place it in the left bin within the **target green zone** via following a precomputed trajectory open-loop
+Goal: get the robot to pick up the brick in the right bin and place it in the left bin within the **target green zone** via following a precomputed trajectory open-loop.
 
-VIDEO DEMO:
+Below is a video of our demo:
+
+
+
+https://github.com/user-attachments/assets/d09170df-1473-4a1d-a013-b5837c27d1e0
+
+
 
 To run the starter script:
 ``` 
@@ -98,6 +104,11 @@ Helpful tips:
 Utilizing motion planning algorithms to create collision-free trajectories to complete the pick and place task, with Hugging Face LeRobot library.
 
 Below is a video of our demonstration:
+
+
+
+https://github.com/user-attachments/assets/ec677e48-79f3-45e3-89bd-6d1330d1d7ac
+
 
 
 #### Part 3: Closed-loop Box Pick and Place using Vision and Learning
