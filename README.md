@@ -7,6 +7,7 @@ This was a project that a group of 5 members did as a part of a research class o
 ## ⚙️ Technologies Used
 - Python
 - PyTorch
+- PyBullet
 - Hugging Face (LeRobot)
 - OpenAI Gymnasium
 - Gazebo3D
